@@ -1,2 +1,4 @@
-title : tropelon 
-url : https://tropelon.github.io
+title: আমার ওয়েবসাইট
+description: ব্লগ ও ব্যক্তিগত সাইট
+markdown: kramdown
+theme: minima
